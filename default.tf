@@ -8,8 +8,8 @@ terraform {
 }
 
 locals {
-  cloud_id  = "aje789a9p2bcauis64hl"
-  folder_id = "b1g5n8seedm7iub1qbob"
+  cloud_id  = "xxxxxxxxxxxxx"
+  folder_id = "xxxxxxxxxxxxx"
 }
 
 provider "yandex" {
